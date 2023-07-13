@@ -1,0 +1,77 @@
+Python
+sudo apt install wget build-essential checkinstall
+sudo get https://www.python.org/ftp/python/3.10.12/Python-3.10.12.tgz
+tar xzf Python-3.
+clear 
+cd Python-3.10.0
+sudo ./configure --enable-optimizations
+clear
+sudo make altinstall
+python3.10 --version
+
+
+After activating virtual environment :
+
+1 myenv\scripts\activate
+2 pip install flask
+3 pip install tensorflow,pandas ,joblib, scikit-learn, 
+
+Installations:
+python3
+
+
+For Python2:
+pip2 install virtualenv==16.7.10 (for python2)
+#check virtualenv --version
+virtualenv --python=/usr/bin/python2.7 venv
+source venv/bin/activate
+pip install flask
+pip install tensorflow,pandas ,joblib, scikit-learn, 
+python app.py
+
+For Python3:
+python -m venv myenv
+myenv\Scripts\activate
+pip install flask
+pip install tensorflow,pandas ,joblib, scikit-learn,
+python app.py
+
+1 unzip Final_Policy.zip
+2 pip3 install virtualenv
+2 virtualenv myenv
+4 source myenv/bin/activate
+5 pip install flask
+6 pip install tensorflow pandas joblib scikit-learn
+
+
+[2:27 PM] TALREJA, CHIRAG
+
+export http_proxy=http://hpeproxy.its.hpecorp.net:80
+
+export HTTP_PROXY=http://hpeproxy.its.hpecorp.net:80 
+
+export https_proxy=http://hpeproxy.its.hpecorp.net:80 
+
+export HTTPS_PROXY=http://hpeproxy.its.hpecorp.net:80
+
+export ftp_proxy=http://hpeproxy.its.hpecorp.net:80 
+
+export FTP_PROXY=http://hpeproxy.its.hpecorp.net:80
+
+
+
+
+export http_proxy=http://web-proxy.in.hpecorp.net:8080
+export HTTP_PROXY=http://web-proxy.in.hpecorp.net:8080
+export https_proxy=http://web-proxy.in.hpecorp.net:8080
+export HTTPS_PROXY=http://web-proxy.in.hpecorp.net:8080
+export ftp_proxy=http://web-proxy.in.hpecorp.net:8080
+export FTP_PROXY=http://web-proxy.in.hpecorp.net:8080
+
+
+export http_proxy=http://web-proxy.corp.hpecorp.net:8080
+export HTTP_PROXY=http://web-proxy.corp.hpecorp.net:8080
+export https_proxy=http://web-proxy.corp.hpecorp.net:8080
+export HTTPS_PROXY=http://web-proxy.corp.hpecorp.net:8080
+export ftp_proxy=http://web-proxy.corp.hpecorp.net:8080
+export FTP_PROXY=http://web-proxy.corp.hpecorp.net:8080
