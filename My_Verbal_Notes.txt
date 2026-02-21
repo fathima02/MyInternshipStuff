@@ -1,98 +1,3 @@
-math Strategy 1st pref
-time contrast (niche tools)
-pairing strategy (on sent eq)
-previously referenced strategy(niche)
-block of 4 (niche)--look before blank--not opt for Reading/Inference questions--optional for text completion
--- find 2 contrasting words in the sentence
-Double Possibility -- Display Picture
-Find pairs for both blanks then search for a pair in the options
-Examples strategy
-
-
-
-*********************************************
- vituperation - abusive language
-aghast - shock/horror
-bemused - puzzled/confused/bewildered
-obduracy - stubbornly persistent in wrong doing
-caprice - unaccountable change of mood or behaviour.
-marginalized - treat a person insignificant 
-isolated
-ephemeral- transitory
-depraved intellectual - morally evil
-unfettered 
-benefecient
-tenor//ballard
-assiduous
-diffident
-diverted
-stanched
-accentuated
-taciturnity
-alacrity-brisk and cheerful readiness.
-rhapsody-an effusively enthusiastic or ecstatic expression of feeling.(rhapsodies of praise)
-undermine-lessen effectiveness/power
-inimical-tending to obstruct or harm
-*********************************************
- Belie 
-Austere
-Caprecious
-Congenial- 
-Conspicuous 
-Didactic 
-Flout
-Homogenous
-Humdrum 
-Quixotic - ideal/impractical
-Tom belies his wealth with his clothing choice looking austere. His words seem didactic and has quixotic opinions. Unlike Tom, his sister is Capricous and regularly flouts set rules.She doesnt like toms homogenous lifestyle and is jealous that his friends find him congenial.
-
-
-
-Avarcious - Greedy for wealth
-Deft -
-Derivative
-Diatribe - verbal attack / tirade(like a speech)
-Decorum
-Calumny-slander
-Craven
-Anachronistic 
-Ambivalent
-Benign
-Tom being an avaricious person, although he was deft he often derived ideas from older cases without being craven of the consequences. His work seems
-
-
-Arcane - Gandalf
-Betray- 
-Cosmopolitan- diverse/ 
-Censure - scold /yell/ reprimand somebody
-Burgeon - go up quickly (CO2 levels are burgeoning)
-Assuage - making them feel better
-Coalesce - everything mergin together
-
-Approbation - approve 
-Enervate - suck out energy 
-garrulous - talkative
-obsolete - outdated 
-*********************************************
- Session8 W2D2 
-0 to 22mins---- HW 
-22 to 30-----Vocab Test
-
-time contrast generally gives us evidence 
-
-even is a word for extreme contrast 
- Session9 W2D3
- 0 to 40mins ------HW
-
-Session 10 (pending)
-Full video is solving problems
-
-Session 11(full done)
-intro to double possiblity 
-intro to 
-
-Session 12
-
 
 *********************************************
 FOR JSON TO SERVER 
@@ -103,7 +8,7 @@ FOR A FRESHLY SETUP ENV
 install node.js in the env, then the below command
 npm install -g json-server
 *********************************************
-FOR LAUNCHING ENV 
+FOR LAUNCHING virtual ENV 
 env\scripts\activate
 python app.py
 
@@ -112,5 +17,6 @@ ensure all required packages are installed
 install cors (to avoid cors)(in the env itself)
 pip install flask-cors
 *********************************************
+
 
 *********************************************
